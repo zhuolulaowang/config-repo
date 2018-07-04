@@ -14,4 +14,4 @@ PORDUCT:
 server:
   port: 8081
 env:
-  message: 这是一个配置文件内容获取测试2。
+  message: 这是一个配置文件内容获取测试3。
