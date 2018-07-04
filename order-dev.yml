@@ -10,4 +10,5 @@ spring:
     show-sql: true
 server:
   port: 8081
-env: 7777
+message: 
+  666
